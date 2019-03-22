@@ -1,2 +1,4 @@
 # IPProbes
-A project to design and build wireless sensor networks and measurement devices based on embedded systems and the internet. 
+# ThermoProbes
+
+Thermoprobes are used for temperature measuring devices, including Thermocouples, RTDs, NTCs, PTCs, and temperature ICs. 
